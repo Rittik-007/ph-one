@@ -57,6 +57,7 @@ select {
 }
 
 #submit {
+    cursor: pointer;
     background-color: green;
     color: lightgreen;
     transition: 0.4s ease-in-out;
@@ -67,6 +68,7 @@ select {
 }
 
 #clear {
+    cursor: pointer;
     background-color: rgb(255, 24, 24);
     color: rgb(49, 1, 1);
     transition: 0.4s ease-in-out;
